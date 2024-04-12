@@ -1,1 +1,8 @@
 to avoid staging and to do commit directly we can use the command like git commit -a -m "message here"
+take input from ser
+add the values
+
+git diff: use to know what are the changes which are made 
+if our file is in working are awe nee to use git dif nd we moved our file to staging are we need to use the command git diff --staged
+
+
