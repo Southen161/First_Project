@@ -4,5 +4,6 @@ add the values
 
 git diff: use to know what are the changes which are made 
 if our file is in working are awe nee to use git dif nd we moved our file to staging are we need to use the command git diff --staged
-
+if we added any file sto the git and now  we want to remove the same file from git 
+we use the command git rm -- cahed filename
 
