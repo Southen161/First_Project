@@ -1,0 +1,1 @@
+to avoid staging and to do commit directly we can use the command like git commit -a -m "message here"
