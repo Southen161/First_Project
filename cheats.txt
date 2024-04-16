@@ -10,3 +10,4 @@ we use the command git rm -- cahed filename
 to open and edit file in terminal using git commands is vim file.txt;
 
 
+I am goint to add a new feature for checking the branches
