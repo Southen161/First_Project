@@ -7,3 +7,6 @@ if our file is in working are awe nee to use git dif nd we moved our file to sta
 if we added any file sto the git and now  we want to remove the same file from git 
 we use the command git rm -- cahed filename
 
+to open and edit file in terminal using git commands is vim file.txt;
+
+
